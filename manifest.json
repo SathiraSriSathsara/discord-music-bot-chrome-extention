@@ -1,0 +1,11 @@
+{
+  "name": "My Discord Bot",
+  "version": "1.0",
+  "description": "A simple Discord bot hosted in a Chrome extension",
+  "manifest_version": 2,
+  "permissions": ["tabs", "activeTab", "storage"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
