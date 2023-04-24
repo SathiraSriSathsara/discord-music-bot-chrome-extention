@@ -19,7 +19,7 @@ npm install ytdl-core
 This bot uses the Discord.js library and the ytdl-core library for playing YouTube videos. It listens for messages in the Discord server and responds to the commands "!play" and "!stop". When the "!play" command is triggered, the bot joins the voice channel of the user who sent the message and starts playing a YouTube video. When the "!stop" command is triggered, the bot leaves the voice channel.
 
 
-## Adding extention
+## Adding extention to Chrome
 
 1. Zip up the root folder of your extension and upload it to the Chrome Web Store. You will need to create a developer account and pay a one-time fee of $5.
 
